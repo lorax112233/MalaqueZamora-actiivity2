@@ -1,7 +1,14 @@
 # MalaqueZamora-actiivity2
-<<<<<<< HEAD
+
 Shadrach yayayaya
-=======
+
 assds
 sadsd
->>>>>>> zamorabranch
+hello
+hiii
+
+dfassfdsfdssf
+dfsdfsdffds
+fgdfgdf
+
+branch5
